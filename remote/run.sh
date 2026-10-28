@@ -1,0 +1,1 @@
+docker run -dit --name solver solver-solver

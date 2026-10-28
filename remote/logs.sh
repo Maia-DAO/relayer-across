@@ -1,0 +1,1 @@
+docker logs solver --tail 500 --follow
